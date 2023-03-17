@@ -10,4 +10,5 @@
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
  <h2 align="center">Contact me ☎️:</h2>
  <a href="https://www.youtube.com/@amirrezaie5998"><img src="https://github.com/AmirRezaiee/AmirRezaiee/blob/main/image/youtube.png?raw=true"></a>    <a href="https://instagram.com/mr.rezaiiie?igshid=YmMyMTA2M2Y="><img src="https://github.com/AmirRezaiee/AmirRezaiee/blob/main/image/instagram.png?raw=true"></a>    <a href="https://www.linkedin.com/in/emir-rezaie-079572106"><img src="https://github.com/AmirRezaiee/AmirRezaiee/blob/main/image/icons8-linkedin-30.png?raw=true"></a>    <a href="https://twitter.com/amirrezaiie/"><img src="https://github.com/AmirRezaiee/AmirRezaiee/blob/main/image/twitter.png?raw=true"></a>
+ <h2 align="center">🌱  I am learning these:</h2>
 
