@@ -27,7 +27,7 @@
  <h2 align="center">Contact me ☎️:</h2>
  <a href="https://www.youtube.com/@amirrezaie5998"><img src="https://github.com/AmirRezaiee/AmirRezaiee/blob/main/image/youtube.png?raw=true"></a> <a href="https://instagram.com/mr.rezaiiie?igshid=YmMyMTA2M2Y="><img src="https://github.com/AmirRezaiee/AmirRezaiee/blob/main/image/instagram.png?raw=true"></a> <a href="https://www.linkedin.com/in/amir-rezaei-darsara-079572106/"><img src="https://github.com/AmirRezaiee/AmirRezaiee/blob/main/image/icons8-linkedin-30.png?raw=true"></a>       <a href="https://twitter.com/amirrezaiie/"><img src="https://github.com/AmirRezaiee/AmirRezaiee/blob/main/image/twitter.png?raw=true"></a>
  <h2 align="center">🌱  I am learning these:</h2>
- <h3>🔮 Spark | 80%</h3> <img src="https://github.com/AmirRezaiee/AmirRezaiee/blob/main/image/bar.png?raw=true" height="16px" width="150px">
+ <h3>🔮 Spark | 80%</h3> <img src="https://github.com/AmirRezaiee/AmirRezaiee/blob/main/image/bar.png?raw=true" height="16px" width="600px">
  <h3>🔮 kafka | 75%</h3><img src="https://github.com/AmirRezaiee/AmirRezaiee/blob/main/image/bar.png?raw=true" height="16px" width="100px">
  <h3>🔮 Nifi | 70%</h3><img src="https://github.com/AmirRezaiee/AmirRezaiee/blob/main/image/bar.png?raw=true" height="16px" width="100px">
  <h3>🔮 AWS | 45%</h3><img src="https://github.com/AmirRezaiee/AmirRezaiee/blob/main/image/bar.png?raw=true" height="16px" width="100px">
